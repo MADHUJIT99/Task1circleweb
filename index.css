@@ -748,8 +748,8 @@
                                 display: flex;
                                 flex-direction: row;
                                 position: absolute;
-                                top: 4930px;
-                                left: 480px;
+                                top: 4910px;
+                                left: 520px;
                             
                             
                         }
@@ -768,14 +768,15 @@
                         .pad{
                             padding: 15px;
                         }
-                        /* .final{
+                         .final{
                             display: flex;
                             flex-direction: row;
                             height: 5rem;
                             width: 100%;
-                            top: 300px;
+                            position: absolute;
+                            top: 5310px;
                         
-                    } */
+                    } 
                         
                              
                                                                 
