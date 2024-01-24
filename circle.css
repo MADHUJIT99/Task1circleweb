@@ -744,56 +744,40 @@
                                 top: 4950px;
                                 left: 0%;
                             }
+                            .lasst{
+                                display: flex;
+                                flex-direction: row;
+                                position: absolute;
+                                top: 4930px;
+                                left: 480px;
+                            
+                            
+                        }
+                        .coll{
+                            display: flex;
+                            flex-direction: column;
+                        }
+                        .lastrig{
+                            display: flex;
+                            flex-direction: row;
+                            padding: 50px;
+                            text-align: center;
+                            font-family: 'Segoe UI';
+                            color: aliceblue;
+                        }
+                        .pad{
+                            padding: 15px;
+                        }
+                        /* .final{
+                            display: flex;
+                            flex-direction: row;
+                            height: 5rem;
+                            width: 100%;
+                            top: 300px;
                         
-                            .last{
-                                        display: flex;
-                                        flex-direction: row;
-                                        height: 22rem;
-                                        width: 100%;
-                                        position: absolute;
-                                        top: 500px;
-                                    }
-                                    .unionseclast{
-                                        height: 105px;
-                                        width: 100px;
-                                        padding: 15px;
-                                        padding-top: 150px;
-                                        border-radius: 5%;
-                                        text-align: center;
-                                    }
-                                    .lasst{
-                                            display: flex;
-                                            font-size: 15px;
-                                            flex-direction: row;
-                                            position: absolute;
-                                            top: 4900px;
-                                            left: 600px;
-                                        
-                                    }
-                                    .coll{
-                                        display: flex;
-                                        flex-direction: column;
-                                    }
-                                    .pad{
-                                        padding: 15px;
-                                    }
-                                    .lastrig{
-                                        display: flex;
-                                        flex-direction: row;
-                                        padding: 50px;
-                                        text-align: center;
-                                        font-family: 'Segoe UI';
-                                        color: aliceblue;
-                                    }
-                                    .final{
-                                            display: flex;
-                                            flex-direction: row;
-                                            height: 5rem;
-                                            width: 100%;
-                                            position: absolute;
-                                            top: 5300px;
-                                        
-                                    }
+                    } */
+                        
+                             
                                                                 
                                                                 
                                                                 
